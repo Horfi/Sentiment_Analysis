@@ -61,5 +61,5 @@ jobs:
       - name: Deploy to Azure WebApp
         uses: azure/webapps-deploy@v3
         with:
-          app-name: "awesome-sentiment-app"  # must match your Web App name
+          app-name: "awesomeproject-a0gheagqgpcge9hd"  # must match your Web App name
           package: "./app.zip"
