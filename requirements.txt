@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+torchaudio>=2.0
+datasets>=2.13
+nltk>=3.8
+Flask>=2.3
+transformers>=4.30
+numpy>=1.24
